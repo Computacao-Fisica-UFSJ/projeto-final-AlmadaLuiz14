@@ -9,3 +9,7 @@
 - Modulo Wifi
 - Bomba de água
 - Alguns botões
+
+## Andamento do projeto
+- **Antes da aula do dia 25/11:** Estrutura de ligações dos modulos ao protoboard e Arduino; Implementação do código de controle do visor LCD e inicio do controle da bomba de água.
+- **Aula do dia 25/11:** Pesquisa e tentativa de implementar a comunicação do arduino com um módulo wifi. 
