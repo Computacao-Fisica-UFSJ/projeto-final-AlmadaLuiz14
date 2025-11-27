@@ -12,4 +12,5 @@
 
 ## Andamento do projeto
 - **Antes da aula do dia 25/11:** Estrutura de ligações dos modulos ao protoboard e Arduino; Implementação do código de controle do visor LCD e inicio do controle da bomba de água.
-- **Aula do dia 25/11:** Pesquisa e tentativa de implementar a comunicação do arduino com um módulo wifi. 
+- **Aula do dia 25/11:** Pesquisa e tentativa de implementar a comunicação do arduino com um módulo wifi.
+- **Aula do dia 26/11:** Conseguimos implementar a comunicação do arduino com o módulo wifi e estabelecemos um código que gera um servidor web em resposta. O site ainda esta sendo implmenetado. Tudo isso acarretou na mudança o placa utilizada de um arduino UNO para um arduino Mega.
