@@ -3,12 +3,14 @@
 # Jardim Inteligente
 
 ## Lista de Materiais
-- Sensor de humidade do solo
-- Sensor de temperatura
+- Arduino Mega 2560
+- Sensor de umidade do solo HW-080
 - Visor Grove-LCD RGB Backlight
-- Modulo Wifi
-- Bomba de água
-- Alguns botões
+- Modulo Wifi ESP-01
+- Bomba de água submersível
+- Fonte externa a base de pilhas
+- 2 botões
+- Relé 1 canal JQC3F-05VDC-C 5V
 
 ## Andamento do projeto
 - **Antes da aula do dia 25/11:** Estrutura de ligações dos modulos ao protoboard e Arduino; Implementação do código de controle do visor LCD e inicio do controle da bomba de água.
