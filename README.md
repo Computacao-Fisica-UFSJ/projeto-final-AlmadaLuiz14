@@ -29,8 +29,12 @@
 | Relé 1 canal JQC3F-05VDC-C 5V | <img src="https://images.tcdn.com.br/img/img_prod/648216/modulo_rele_arduino_1_canal_5v_10a_jqc3f_05vdc_c_152044_1_5073a7355c9187c39427fd090a2fb630.jpg" alt="Foto Relé JQC3F-05VDC-C 5V" width="300px"> |
 
 ## Bibliotecas usadas
+- **rgb_lcd.h:** Biblioteca usada para controlar o visor Grove-LCD RBG Backlight.
+- **Wire.h:** (precisa?)
 
 ## Diagrama de montagem
+<img src="https://github.com/Computacao-Fisica-UFSJ/projeto-final-AlmadaLuiz14/blob/main/EsquemaFritzing/tpFinal_bb.png" alt="Imagem do diagrama de montagem">
+(fazer a descrição depois)
 
 ## Foto do projeto
 
