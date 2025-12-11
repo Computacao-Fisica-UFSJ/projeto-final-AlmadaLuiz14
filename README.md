@@ -7,6 +7,7 @@
 - **Aula do dia 25/11:** Pesquisa e tentativa de implementar a comunicação do arduino com um módulo wifi.
 - **Aula do dia 26/11:** Conseguimos implementar a comunicação do arduino com o módulo wifi e estabelecemos um código que gera um servidor web em resposta. O site ainda esta sendo implmenetado. Tudo isso acarretou na mudança o placa utilizada de um arduino UNO para um arduino Mega.
 - **Semana 01/12 a 05/12:** Criação do esquemático no Fritzing; Criação do site que será usado para ver informações e controlar a aplicação;
+- **Aulas dos dias 10/12 e 11/12:** Tentativas de fazer o html criado para o site funcionar corretamente; Finalização das configurações referentes à bomba de água; Implementação do sistema de rega automatica baseada em um horario configurável.
 
 
 ## Contextualização
@@ -40,7 +41,7 @@ Esse projeto foi montado usando um conjunto de componentes e conexões. Falaremo
 
 - **Protoboard:** O protoboard aqui serve, pricipalmente como distribuidor de energia já que recebe a alimentação das portas 5V e GND do arduino e todos os outros componentes pegam energia de um de seus pontos. Além disso, há também dois botões que se comunicam com o arduino através de uma comunicação com as portas digitais 8 e 10.
 - **Visor LCD:** O visor Grove-LCD RGB Backlight, além das ligações de alimentação com o protoboard, possui seus pino SDA e SCL ligados ao arduino nessas respectivas entradas (portas 20 e 21, respectivamente, do arduino Mega 2560)..
-- **ESP:** O módulo wifi ESP8266 está conectado ao adaptador ESP-01 que, por sua vez, está conectado ao protoboard para energia e às portas digitais 3 e 4 do arduino (ligadas, respectivamente, ao RX e TX do ESP-01).
+- **ESP:** O módulo wifi ESP8266 está conectado ao adaptador ESP-01 que, por sua vez, está conectado ao protoboard para energia e às portas digitais 18 (TX1) e 19 (RX1) do arduino (ligadas, respectivamente, ao RX e TX do ESP-01).
 - **Relé e bomba d'água:** O Relé JQC3F-05VDC-C 5V possui duas partes d.d9 conexão: O "interruptor" e o controlador do "interruptor".
   - Na parte responsável pelo “interruptor”, o VCC (fio vermelho) da bomba d’água está conectado ao terminal NC (Normalmente fechado) do relé, e o VCC (fio vermelho) da fonte de pilhas está conectado ao terminal C (Comum). Dessa forma, quando o relé estiver desativado, o circuito permanece aberto e a bomba fica desligada. Quando o relé for acionado, o circuito se fecha, permitindo a passagem de corrente, e a bomba será ligada.
   - Na parte do controlador do relé, os pinos de alimentação estão conectados à protoboard por meio de jumpers, e o pino IN está ligado à porta digital 2 do Arduino, responsável por enviar o sinal de controle.
