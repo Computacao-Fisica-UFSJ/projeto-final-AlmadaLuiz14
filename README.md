@@ -25,11 +25,11 @@
 | Modulo Wifi ESP8266 | <img src="https://images.tcdn.com.br/img/img_prod/672486/modulo_wifi_esp01_esp8266_43_1_d8e1fc79a4a87d5429704b3788615b70_20241128103856.jpg" alt="Foto Módulo Wifi ESP-01" width="300px"> |
 | Adaptador ESP-01 | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwWG1IF6Woep4x9cUgK93tCzz57YrjBdrpzw&s" alt="Foto adaptador para ESP8266" width="300px">
 | Bomba de água submersível | <img src="https://http2.mlstatic.com/D_NQ_NP_764687-MLB77866730739_072024-O.webp" alt="Foto bomba de água submersível" width="300px"> |
-| Fonte externa a base de pilhas | <img src="" alt="Foto fonte externa 4 pilhas" width="300px"> |
+| Fonte externa a base de 4 pilhas AA | <img src="https://http2.mlstatic.com/D_NQ_NP_663814-MLB91476942282_092025-O.webp" alt="Foto fonte externa 4 pilhas" width="300px"> |
 | Botões | <img src="https://guiarobotica.com/wp-content/uploads/2020/04/Push-Button-Arduino-e1586870732801.jpg.webp" alt="Foto botão" width="300px"> |
 | Relé 1 canal JQC3F-05VDC-C 5V | <img src="https://images.tcdn.com.br/img/img_prod/648216/modulo_rele_arduino_1_canal_5v_10a_jqc3f_05vdc_c_152044_1_5073a7355c9187c39427fd090a2fb630.jpg" alt="Foto Relé JQC3F-05VDC-C 5V" width="300px"> |
-| Jumpers macho-macho | |
-| Jumpers macho-fêmea | |
+| Jumpers macho-macho | <img src="https://images.tcdn.com.br/img/img_prod/650361/20x_cabo_jumper_macho_x_macho_20_cm_825_1_a25c47ea7e7348d431f946aa9ff09121.png" alt="jumpers macho-macho" width="300px"> |
+| Jumpers macho-fêmea | <img src="https://images.tcdn.com.br/img/img_prod/672486/kit_500_jumpers_dupont_macho_femea_20_cm_2007_1_f16e740756d14fd65a3d62d6b08f9929_20241128103839.jpg" alt="jumpers macho-fêmea" width="300px"> |
 
 ## Bibliotecas usadas
 - **rgb_lcd.h:** Biblioteca usada para controlar o visor Grove-LCD RBG Backlight.
