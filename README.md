@@ -11,6 +11,8 @@
 
 
 ## Contextualização
+Com o avanço da automação residencial e da Internet das Coisas (IoT), tornou-se cada vez mais comum o desenvolvimento e a aplicação de sistemas de monitoramento capazes de controlar dispositivos presentes em residências. Nesse contexto, o cuidado com plantas na agricultura doméstica pode ser aprimorado por meio do monitoramento de variáveis ambientais, como umidade e temperatura.
+Este projeto consiste na criação de um jardim inteligente que, por meio de um sensor de umidade, verifica a porcentagem de água presente no solo de um vaso de planta, acionando uma bomba d’água sempre que necessário. Além disso, o sistema conta com um servidor embarcado que disponibiliza uma interface web para o controle manual da irrigação. 
 
 ### Motivação
 
