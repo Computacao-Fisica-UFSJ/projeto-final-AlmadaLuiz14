@@ -53,6 +53,7 @@ Esse projeto foi montado usando um conjunto de componentes e conexões. Falaremo
 ## Foto do projeto
 
 ## Vídeo de funcionamento
+[Link para o vídeo](https://drive.google.com/drive/folders/1RQaMnDNWxTeHiCYr-p0Y3ENLBdyxyKBA?usp=sharing)
 
 ## Problemas encontrados
 
